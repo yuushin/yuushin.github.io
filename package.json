@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "type": "module",
   "homepage": "http://yuushin.github.io/yuushin/yuushin.github.io",
-  //yourusername.github.io/your-repo-name/
   "scripts": {
     "dev": "vite",
     "build": "vite build",
